@@ -1,0 +1,11 @@
+[
+  { "name":"Alphington Community Centre", "address":"2 Kelvin Rd, Alphington, 3078", "lat":"-37.777619539754895", "lng":"145.0307300865527", "state":"VIC"},
+  { "name":"ASRC Catering", "address":"321 St Georges Road, Fitzroy North, 3068", "lat":" -37.780192865326875", "lng":"144.9859432521649", "state":"VIC"},
+  { "name":"CERES Community Environment Park", "address":"Cnr Roberts and Stewart Streets, Brunswick East, 3057", "lat":"-37.765462007685635", "lng":"144.98252806935858", "state":"VIC"},
+  { "name":"CERES Fairfood", "address":"20 Water Road Preston", "lat":"-37.742978636153566", "lng":"145.03388016750722", "state":"VIC"},
+  { "name":"Elwood/St. Kilda Neighbourhood Learning Centre", "address":"87 Tennyson Street, Elwood 3184", "lat":" -37.87952152125963", "lng":"144.99040555957012", "state":"VIC"},
+  { "name":"Richard Wynne MP (State Member for Richmond)", "address":"Suite 2, 188–196 Gertrude St, Fitzroy", "lat":"-37.806350762795184", "lng":"144.9810059448825", "state":"VIC"},
+  { "name":"Surrey Hills Neighbourhood Centre", "address":"157 Union Rd, Surrey Hills 3127", "lat":"-37.82308900841306", "lng":"145.09800705401682", "state":"VIC"},
+  { "name":"Foodbank", "address":"50 Owen Street, Glendenning NSW 276", "lat":" -33.7492473614026", "lng":"150.85847147398914", "state":"NSW"}
+]
+
